@@ -3,12 +3,12 @@
         "id": 1,
         "title": "Malena",
         "price" : 100.00,
-        "thumbnail": "https://github.com/g-mallikarjuna/api-shops/blob/main/images/malena-thumbnail.webp"
+        "thumbnail": "https://raw.githubusercontent.com/g-mallikarjuna/api-shops/main/images/malena-thumbnail.webp"
     },
     {
         "id": 2,
         "title": "Valentina",
         "price" : 100.00,
-        "thumbnail": "https://github.com/g-mallikarjuna/api-shops/blob/main/images/valentina-thumbnail.webp"
+        "thumbnail": "https://raw.githubusercontent.com/g-mallikarjuna/api-shops/main/images/valentina-thumbnail.webp"
     }
 ]
